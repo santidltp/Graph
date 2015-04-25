@@ -1,0 +1,10 @@
+2-Colorable: false
+1 RED
+2 BLACK
+3 RED
+4 BLACK
+5 RED
+------OddCycle------
+2
+5
+3
